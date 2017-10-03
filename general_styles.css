@@ -35,3 +35,18 @@ header a:hover {
 footer a {
     color: white;
 }
+
+a  {
+    text-decoration: none;
+}
+
+h2,
+h4 {
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+nav {
+    text-align: right;
+}
